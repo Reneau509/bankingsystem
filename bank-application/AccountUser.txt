@@ -1,0 +1,72 @@
+3
+
+2
+Checking 456989045 1046.86
+10
+12.21 Chick Fil-A
+24.07 BP
+3.47 Dollar General
+45.27 Walmart
+7.60 Panda Express
+12.99 Netflix
+14.99 Apple Music
+92.40 Best Buy
+4.70 McDonalds
+20.04 Publix
+Savings 4578987890 12500.00
+4
+1000 World Bank Send Transaction
+1000 World Bank Send Transaction
+1000 World Bank Send Transaction
+1000 World Bank Send Transaction
+John Doe johndoe john1234
+3
+Jane Doe Checking
+Ryan Dask Checking
+Jake Doe Savings
+
+2
+Checking 4084175284 787.96
+12
+360.00 American Rentals
+10.07 Fresh Kitchen
+75.00 T-Mobile
+45.21 Gamestop
+11.45 Publix
+7.23 Starbucks
+45.32 H&M
+4.17 McDonalds
+21.00 Publix
+7.99 Spotify
+15.00 Car-Wash
+36.27 Forever-21
+Savings 4364345095 27000
+3
+2500 World Bank Receive Transaction
+3000 World Bank Receive Transaction
+10000 World Bank Send Transaction
+Reneau Augusma raugusma Augusma509!
+2
+Josh Blake Checking
+Carl Rudy Checking
+
+2
+Checking 5690469504 520.07
+7
+24.99 World Bank Send Transaction
+43.20 Target
+5.99 Wendys
+10.40 Gringos Locos
+14.99 Amazon
+283.21 Ally Auto
+40.59 Verizon
+Savings 5789043278 2540.00
+5
+100 World Bank Receive Transaction
+100 World Bank Receive Transaction
+100 World Bank Receive Transaction
+100 World Bank Receive Transaction
+100 World Bank Receive Transaction
+Josh Blake  joshblake joshbla23
+1
+Reneau Augusma Checking
